@@ -1,0 +1,45 @@
+img.octocat {
+    height: 200px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f5fafb;
+}
+
+h1, p {
+    text-align: center;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 300%;
+    padding-top: 20px;
+}
+
+#container {
+    padding: 20px;
+}
+
+#container div {
+    display: flex;
+    justify-content: space-around;
+    align-content: space-between;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+#top {
+    background-color: #5ac8e8;
+}
+
+#middle {
+    background-color: #d4a6ba;
+}
+
+#bottom {
+    background-color: #fcfcfe;
+}
