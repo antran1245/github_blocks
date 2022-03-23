@@ -27,7 +27,6 @@ h1 {
 #container div {
     display: flex;
     justify-content: space-around;
-    align-content: space-between;
     padding: 20px;
     margin-top: 10px;
 }
